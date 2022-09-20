@@ -1,0 +1,150 @@
+﻿  Screen.cpp
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Border.h(20,35): warning C4244: "inicjowanie": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Border.h(21,7): warning C4244: "inicjowanie": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Border.h(21,32): warning C4244: "inicjowanie": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(9,49): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(9,40): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(13,10): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(14,10): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(15,29): warning C4244: "argument": konwersja z "int" do "const float", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(15,26): warning C4244: "argument": konwersja z "int" do "const float", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(52,14): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(52,40): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(55,29): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(56,29): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(60,14): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(60,40): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(63,35): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(64,38): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(88,9): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(89,9): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(93,15): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(93,43): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(94,16): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(94,45): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(97,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(97,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(102,14): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(102,44): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(105,29): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(106,32): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(106,29): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(110,14): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(110,43): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(113,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(114,32): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(114,29): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(133,50): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(136,13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(137,13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(149,7): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(216,8): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(217,8): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,16): warning C4244: "inicjowanie": konwersja z "int" do "_Ty1", możliwa utrata danych
+          with
+          [
+              _Ty1=float
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(16): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<float,int>::pair<int&,int&,0>(_Other1,_Other2) noexcept” funkcji szablon
+          with
+          [
+              _Other1=int &,
+              _Other2=int &
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(16): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<float,int>::pair<int&,int&,0>(_Other1,_Other2) noexcept” funkcji szablon
+          with
+          [
+              _Other1=int &,
+              _Other2=int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,16): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty1", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(16): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<int,int>::pair<float,int&,0>(_Other1 &&,_Other2) noexcept” funkcji szablon
+          with
+          [
+              _Other1=float,
+              _Other2=int &
+          ]
+C:\Programowanie\SFML\MazeGenerator\MazeGenerator\Screen.cpp(16): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<int,int>::pair<float,int&,0>(_Other1 &&,_Other2) noexcept” funkcji szablon
+          with
+          [
+              _Other1=float,
+              _Other2=int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,54): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty2", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  MazeGenerator.vcxproj -> C:\Programowanie\SFML\MazeGenerator\x64\Debug\MazeGenerator.exe
